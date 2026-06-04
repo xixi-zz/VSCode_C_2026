@@ -1,4 +1,4 @@
-#include"Binarytree.h"
+#include"BinaryTree.h"
 BTNode* buynode(BTDataType x)
 {
     BTNode* newnode=malloc(sizeof(BTNode));
