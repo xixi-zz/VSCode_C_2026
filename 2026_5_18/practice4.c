@@ -36,6 +36,7 @@ int main()
     }
 
     return 0;
+
 }
 node* buynode(char*s)
 {
